@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Pacifico&family=Shadows+Into+Light&display=swap');
+.home-container {
+        /* display: flex;
+        justify-content: space-around; */
+        /* padding: 20px 0px 0 50px; */
+        font-family: 'Shadows Into Light', cursive;
+}
+.service-container {
+    font-family: 'Oswald', sans-serif;
+}
